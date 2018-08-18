@@ -1,0 +1,30 @@
+{
+  "name": "procedrual-reddit-logo",
+  "version": "1.0.0",
+  "description": "A random reddit logo for r/procedrualgeneration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "procedrual",
+    "reddit"
+  ],
+  "author": "Gavin Song",
+  "license": "MIT",
+  "dependencies": {
+    "color": "^3.0.0",
+    "command-line-args": "^5.0.2",
+    "jimp": "^0.3.5",
+    "random-seed": "^0.3.0",
+    "randomcolor": "^0.5.3",
+    "wait-for-stuff": "^1.4.0"
+  },
+  "devDependencies": {
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.0",
+    "eslint-plugin-standard": "^3.1.0"
+  }
+}
